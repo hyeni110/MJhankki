@@ -4,7 +4,7 @@ import android.app.Application;
 import android.support.v4.app.Fragment;
 
 /**
- ㅎㅏ이
+ ㅎㅏ이ㅎㅎ
  */
 
 public class FragmentApplication extends Application {
