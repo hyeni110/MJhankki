@@ -10,7 +10,7 @@ import com.example.mj.FirstFragment;
 import com.example.mj.R;
 
 /**
- * Created by 우상훈 on 2017-11-03.
+ 으아아아아ㅏ
  */
 
 public class BuyActivity extends AppCompatActivity {
